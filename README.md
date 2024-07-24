@@ -2,7 +2,7 @@
 
 # 🚀 [우아한 타입스크립트 with 리액트] 스터디 🚀
 
-| <img src="https://github.com/user-attachments/assets/3da03d3d-db5c-4482-8e64-7e5c4f297455" width="250px" /> |
+| <img src="./assets/WoowaTs.jpeg" width="250px" /> |
 | ------------------------------------------------------ |
 
 <br />
