@@ -34,14 +34,20 @@
 <tr>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/116702892?v=4" width="120" /></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120" /></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/59434504?v=4" width="120" /></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/89173923?v=4" width="120" /></td>
 </tr>
 <tr>
 <th align="center">박진수</th>
 <th align="center">이무성</th>
+<th align="center">남윤지</th>
+<th align="center">박혜정</th>
 </tr>
 <tr>
 <td align="center" width="150"><a href="https://github.com/jinsupark4255">@jinsupark4255</a></td>
 <td align="center" width="150"><a href="https://github.com/dlantjdgkgk">@dlantjdgkgk</a></td>
+<td align="center" width="150"><a href="https://github.com/YunjiNam">@YunjiNam</a></td>
+<td align="center" width="150"><a href="https://github.com/hyejj19">@hyejj19</a></td>
 </tr>
 </tbody>
 </table>
