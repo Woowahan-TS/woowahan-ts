@@ -27,6 +27,32 @@
 
 <br />
 
+## 📅 일정표 📅
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">1주차</td>
+</tr>
+<tr>
+<td align="center">7/30(화)</td>
+<td colspan="4">OT</td>
+</tr>
+<tr>
+<td align="center" colspan="5">2주차</td>
+</tr>
+<tr>
+<td align="center">8/6(화)</td>
+<th align="left">[2장] 타입</th>
+<td><a href="">정리</a></td>
+<td><a href="">문제</a></td>
+<td>미정</td>
+</tr>
+</tbody>
+</table>
+
+<br />
+
 ## 😎 스터디원 😎
 
 <table>
