@@ -21,7 +21,7 @@
     - avatar1
     - avatar2
 - 대면 회의 전날까지 본인의 파일 안에 markdown으로 배운 내용을 정리하고 Pull Request를 보냅니다.
-- 대면 회의가 끝난 당일, Merge를 진행합니다.
+- 대면 회의가 끝난 당일, Squash & Merge를 진행합니다.
 
 </div>
 
