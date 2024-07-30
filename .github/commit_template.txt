@@ -1,0 +1,10 @@
+📚: [?장] ?챕터명? - ?이름?
+
+또는
+
+📜: ?문서수정?
+# ex) 📚: [2장] 타입 - 이성령
+# ex) 📜: README 수정
+# ------------------------------
+# 커밋 메세지 적용 방법
+# $ git config commit.template .github/.commit_template.txt
