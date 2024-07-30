@@ -51,7 +51,7 @@
 <th align="left">[2장] 타입</th>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/blob/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EB%B0%95%EC%A7%84%EC%88%98.md">정리</a></td>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aopen+is%3Aissue+label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22">문제</a></td>
-<td>미정</td>
+<td>박진수</td>
 </tr>
 </tbody>
 </table>
