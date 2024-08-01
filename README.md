@@ -19,6 +19,7 @@
   - branch : 개인별 브랜치
   - commit message(선택 사항) : 🌱: [2장] 타입 - 박진수
   - 스터디 시작 전까지 main 브랜치에 PR을 올려주세요.
+  - PR : 🌱: [2장] 타입 - 박진수
 - 모든 스터디원들은 각 챕터에 해당하는 문제를 준비합니다.
   - [GitHub issue](https://github.com/Woowahan-TS/woowahan-ts/issues)로 해당 챕터의 label을 적용하여 문제를 작성합니다.
   - 문제 제목은 챕터와 문제 제목으로 설정합니다. (ex. [2장] 트리쉐이킹에 대해 설명해주세요)
