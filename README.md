@@ -55,11 +55,13 @@
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85">요약</a></td>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aopen+is%3Aissue+label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22">문제</a></td>
 <td>박진수</td>
+</tr>
+<tr>
 <td align="center">8/13(화)</td>
 <th align="left">[3장] 고급 타입</th>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B3%EC%9E%A5%5D%20%EA%B3%A0%EA%B8%89%20%ED%83%80%EC%9E%85">요약</a></td>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aopen+is%3Aissue+label%3A%22%5B3%EC%9E%A5%5D+%EA%B3%A0%EA%B8%89+%ED%83%80%EC%9E%85%22">문제</a></td>
-<td>박진수</td>
+<td>미정</td>
 </tr>
 </tbody>
 </table>
