@@ -25,7 +25,8 @@
   - 문제 제목은 챕터와 문제 제목으로 설정합니다. (ex. [2장] 트리쉐이킹에 대해 설명해주세요)
   - 문제 양식은 제공된 템플릿에 맞춰서 작성해주세요.
   - 문제는 스터디 진행 전날부터 진행 직전까지 1인 1회 이상 등록합니다.
-  - 문제 출제자를 제외한 나머지 스터디원은 문제가 등록된 시점부터 스터디 진행 30분 전까지 문제에 대한 답안을 답변으로 작성합니다.
+  - 문제는 스터디 전날까지 올립니다.
+  - 문제 출제자를 제외한 나머지 스터디원은 문제가 등록된 시점부터 스터디 전까지 답변을 등록합니다.
 - 스터디는 1시간 동안 진행됩니다.
   - 전반 30분 동안 다 함께 정리본을 읽고 챕터에 대한 질의응답을 진행합니다.
   - 후반 30분 동안 출제된 문제와 답변을 확인합니다. 출제자는 issue에 마지막 순서로 최종 답안을 작성하면서 해당 issue를 종료시킵니다.
@@ -52,9 +53,7 @@
 <tr>
 <td align="center">8/6(화)</td>
 <th align="left">[2장] 타입</th>
-<td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85">요약</a></td>
-<td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aopen+is%3Aissue+label%3A%22%5B2%EC%9E%A5%5D+%ED%83%80%EC%9E%85%22">문제</a></td>
-<td>미정</td>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9수</td>
 </tr>
 </tbody>
 </table>
