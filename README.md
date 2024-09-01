@@ -75,6 +75,13 @@
 <th align="left">[5장] 타입 활용하기</th>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B5%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0">요약</a></td>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B5%EC%9E%A5%5D+%ED%83%80%EC%9E%85+%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%22">문제</a></td>
+<td>박혜정</td>
+</tr>
+<tr>
+<td align="center">9/3(화)</td>
+<th align="left">[6장] 타입스크립트 컴파일</th>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B6%EC%9E%A5%5D%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%BB%B4%ED%8C%8C%EC%9D%BC">요약</a></td>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B6%EC%9E%A5%5D+%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%EC%BB%B4%ED%8C%8C%EC%9D%BC%22">문제</a></td>
 <td>미정</td>
 </tr>
 </tbody>
