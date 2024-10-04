@@ -92,10 +92,17 @@
 <td>박진수</td>
 </tr>
 <tr>
-<td align="center">9/24(화)</td>
+<td align="center">10/1(화)</td>
 <th align="left">[8장] JSX에서 TSX로</th>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B8%EC%9E%A5%5D%20JSX%EC%97%90%EC%84%9C%20TSX%EB%A1%9C">요약</a></td>
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B8%EC%9E%A5%5D+JSX%EC%97%90%EC%84%9C+TSX%EB%A1%9C%22">문제</a></td>
+<td>박혜정</td>
+</tr>
+<tr>
+<td align="center">10/8(화)</td>
+<th align="left">[9장] 훅</th>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B9%EC%9E%A5%5D%20%ED%9B%85">요약</a></td>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B9%EC%9E%A5%5D+%ED%9B%85%22">문제</a></td>
 <td>미정</td>
 </tr>
 </tbody>
