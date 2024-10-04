@@ -105,6 +105,13 @@
 <td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B9%EC%9E%A5%5D+%ED%9B%85%22">문제</a></td>
 <td>미정</td>
 </tr>
+<tr>
+<td align="center">10/8(화)</td>
+<th align="left">[10장] 상태 관리</th>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/tree/main/%5B10%EC%9E%A5%5D%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC">요약</a></td>
+<td><a href="https://github.com/Woowahan-TS/woowahan-ts/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%5B10%EC%9E%A5%5D+%EC%83%81%ED%83%9C+%EA%B4%80%EB%A6%AC%22">문제</a></td>
+<td>미정</td>
+</tr>
 </tbody>
 </table>
 
